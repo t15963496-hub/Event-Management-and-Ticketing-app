@@ -1,0 +1,6 @@
+{
+  "name": "PassPulse - Event Management & Ticketing",
+  "description": "Real-time event ticketing and management system featuring live sales analytics, secure organizer payment gateway integration, and mobile check-in scanning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
